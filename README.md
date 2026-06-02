@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/4171a81f-25c5-48c7-ba1c-0c53c724e4bf" />
+<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4fb573c9-b30b-423f-a2e0-30c32ac6c40c" />
 
 🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
 
