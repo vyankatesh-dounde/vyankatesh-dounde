@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Vyankatesh Dounde
 
-<!--
-**vyankatesh-dounde/vyankatesh-dounde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+💡 Passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Python Development
+- Voice Assistants
+- Healthcare AI Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building:
+- AI-LLM Assistant (Jarvis-inspired desktop assistant)
+- Autism Early Screening Platform (AutiCare)
+
+🛠 Tech Stack
+
+Python | Machine Learning | AI | Git | GitHub
+TensorFlow | Scikit-Learn | Pandas | NumPy
+
+📫 Connect With Me
+
+Email: vyankateshdounde7@gmail.com
+
+⚡ Fun Fact:
+I love building AI projects that solve real-world problems.
