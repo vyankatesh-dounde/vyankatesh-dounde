@@ -132,7 +132,14 @@ Automation Libraries
 
 ### Internship Group Project
 
+AI-powered interview coach with dynamic question generation, multi-modal input, and LLM-driven answer evaluation.
 Developed during the iGap Technologies Machine Learning Internship.
+
+Generates role-specific interview questions using Ollama LLMs (Gemma-3, LLaMA, Mistral)
+Accepts both typed and audio answers (speech-to-text via Google SpeechRecognition API)
+Scores each answer on a 1–10 scale with reasoning feedback
+Deployed as a full Streamlit web app
+Python Ollama Gemma-3 Streamlit SpeechRecognition NLP
 
 ### Features
 
@@ -228,4 +235,4 @@ TensorFlow | Scikit-Learn | Pandas | NumPy
 
 </div>
 ⚡ Fun Fact:
-I love building AI projects that solve real-world problems.
+I love to understand how Game Mechanics work, interacts and act on action
