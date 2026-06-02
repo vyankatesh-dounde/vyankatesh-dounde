@@ -1,5 +1,11 @@
 <img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4fb573c9-b30b-423f-a2e0-30c32ac6c40c" />
+___
+I am a final semester Diploma Student in Artificial Intelligence & Machine Learning at Dr. Bapuji Salunkhe Institute of Engineering and Technology, Kolhapur. My main interest is building systems that actually do something, e.g. reinforcement learning agents, deep learning pipelines, LLM-based tools.
 
+Beyond AI, I have a deep interest in Sketching And Drawing: Sketching and drawing are more than just a hobby—they are an extension of my creative thinking. Whether I am mapping out complex system architectures, designing user interfaces, or sketching on paper, drawing trains my eye to notice small details and helps me approach technical problems with a unique visual perspective.
+
+Currently in my gap between B.Tech. Building, learning, contributing. Taking time.
+___
 🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
 
 💡 Passionate about:
