@@ -1,4 +1,4 @@
-# Greetings👋, I'm Vyankatesh Dounde
+<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/4171a81f-25c5-48c7-ba1c-0c53c724e4bf" />
 
 🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
 
