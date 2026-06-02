@@ -97,17 +97,6 @@ AutiCare is an AI-powered healthcare platform designed to support early Autism S
 
 ✅ Research Publication (IJERT)
 
-### Model Performance
-
-| Metric | Score |
-|----------|----------|
-| Accuracy | XX% |
-| Precision | XX% |
-| Recall | XX% |
-| F1 Score | XX% |
-
-> Update these values with your final evaluation metrics.
-
 ### Technologies Used
 
 <p align="left">
@@ -151,6 +140,17 @@ AutiCare is an AI-powered healthcare platform designed to support early Autism S
 
 👨‍💻 **Author:** Vyankatesh M. Dounde
 
+🔗 **Research Paper:** https://www.ijert.org/auticare-an-ai-powered-web-platform-for-early-autism-screening-and-caregiver-support-ijertv15is030683 
+
+### Research Contributions
+
+- AI-powered autism screening platform
+- Machine Learning based autism risk assessment
+- Caregiver support ecosystem
+- Streamlit web application
+- Random Forest classifier integration
+- SQLite database implementation
+  
 ### Research Highlights
 
 - Developed an AI-powered healthcare platform for Autism Spectrum Disorder screening.
