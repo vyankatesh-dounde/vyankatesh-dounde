@@ -1,32 +1,75 @@
-<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4fb573c9-b30b-423f-a2e0-30c32ac6c40c" />
+<div align="center">
+<img width="1584" height="396" alt="Green and Black Modern Software Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/7066dfc2-c3d1-4131-87fa-41c3c0ad916c" />
 
-___
+### 🤖 AI & Machine Learning Enthusiast | 🐍 Python Developer | 📚 Research Author
 
-I am a final semester Diploma Student in Artificial Intelligence & Machine Learning at Dr. Bapuji Salunkhe Institute of Engineering and Technology, Kolhapur. My main interest is building systems that actually do something, e.g. reinforcement learning agents, deep learning pipelines, LLM-based tools.
+### Building Intelligent Solutions for Healthcare, Automation, and AI-Powered Systems
 
-Beyond AI, I have a deep interest in Sketching And Drawing: Sketching and drawing are more than just a hobby—they are an extension of my creative thinking. Whether I am mapping out complex system architectures, designing user interfaces, or sketching on paper, drawing trains my eye to notice small details and helps me approach technical problems with a unique visual perspective.
+🏆 Published Research Author (IJERT 2026) • 🏥 Healthcare AI • 🤖 AI Assistants • 🚀 Generative AI
 
-Currently in my gap between B.Tech. Building, learning, contributing. Taking time.
-___
-🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
-
-💡 Passionate about:
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Python Development
-- Voice Assistants
-- Healthcare AI Solutions
+</div>
 
 ---
 
-## 🔭 What I'm Working On
+# 👨‍💻 About Me
 
-- 🏥 Improving **AutiCare** – AI-Powered Autism Screening Platform
-- 🤖 Enhancing **AI-LLM Assistant (Jarvis Inspired)**
-- 📚 Exploring Deep Learning & Large Language Models
-- 🎯 Preparing for B.Tech AIML
-- 🚀 Building production-ready AI applications
+I am a Diploma Graduate in **Artificial Intelligence & Machine Learning** from **Dr. Bapuji Salunkhe Institute of Engineering and Technology, Kolhapur**.
+
+My passion lies in developing intelligent systems that solve real-world problems through AI, Machine Learning, Automation, and Healthcare Technology.
+
+Currently in my transition toward B.Tech, focusing on building impactful projects, contributing to open-source, and deepening my understanding of AI systems.
+
+### 💡 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🚀 Generative AI
+- 🏥 Healthcare AI
+- 🎙️ Voice Assistants
+- ⚙️ Automation Systems
+- 📊 Data Science
+
+### 🎨 Beyond Technology
+
+Sketching and drawing help me visualize complex ideas and approach technical challenges creatively.
+
+### ⚡ Fun Fact
+
+I enjoy understanding how game mechanics work and how systems interact to create engaging user experiences.
+
+---
+
+# 🛠 Core Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DEEP_LEARNING-darkblue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -34,29 +77,25 @@ ___
 
 ---
 
-## 🏥 AutiCare – AI-Powered Autism Screening Platform
+# 🏥 AutiCare – AI-Powered Autism Screening Platform
 
 ### Overview
 
-AutiCare is an AI-powered healthcare platform designed to assist in the early detection and screening of Autism Spectrum Disorder (ASD).
-
-The platform helps caregivers and healthcare professionals identify potential autism indicators through machine learning-driven analysis and intelligent assessment tools.
+AutiCare is an AI-powered healthcare platform designed to support early Autism Spectrum Disorder (ASD) screening through intelligent risk assessment and caregiver support tools.
 
 ### Key Features
 
 ✅ Early Autism Risk Screening
 
-✅ Intelligent Assessment System
+✅ Machine Learning-Based Assessment
 
 ✅ Caregiver Support Platform
 
-✅ Data-Driven Risk Prediction
+✅ Healthcare AI Integration
 
-✅ User-Friendly Healthcare Interface
+✅ User-Friendly Interface
 
-### Impact
-
-Early identification of Autism Spectrum Disorder can significantly improve intervention outcomes. AutiCare aims to make preliminary screening more accessible and technology-driven.
+✅ Research Publication (IJERT)
 
 ### Model Performance
 
@@ -67,172 +106,184 @@ Early identification of Autism Spectrum Disorder can significantly improve inter
 | Recall | XX% |
 | F1 Score | XX% |
 
-> Replace these values with your actual model results.
+> Update these values with your final evaluation metrics.
 
 ### Technologies Used
 
-```python
-Python
-Machine Learning
-Pandas
-NumPy
-Scikit-Learn
-Jupyter Notebook
-```
+<p align="left">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HEALTHCARE_AI-blue?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🤖 AI-LLM Assistant (Jarvis Inspired)
+---
+
+# 📚 Research Publication
+
+## 🏆 AutiCare: An AI-Powered Web Platform for Early Autism Screening and Caregiver Support
+
+<p align="left">
+<img src="https://img.shields.io/badge/IJERT-PUBLISHED_PAPER-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HEALTHCARE_AI-RESEARCH-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTICARE-2026-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_FOR_GOOD-HEALTHCARE-purple?style=for-the-badge"/>
+</p>
+
+### Publication Details
+
+📖 **International Journal of Engineering Research & Technology (IJERT)**
+
+📅 **March 2026**
+
+📚 **Volume 15, Issue 03**
+
+👨‍💻 **Author:** Vyankatesh M. Dounde
+
+### Research Highlights
+
+- Developed an AI-powered healthcare platform for Autism Spectrum Disorder screening.
+- Designed intelligent assessment mechanisms for early autism risk detection.
+- Built a caregiver support system to assist families and healthcare professionals.
+- Applied Machine Learning techniques for predictive risk analysis.
+- Successfully published in IJERT.
+
+---
+
+# 🤖 AI-LLM Assistant (Jarvis Inspired)
 
 ### Overview
 
-An intelligent voice-enabled AI assistant inspired by JARVIS from Iron Man.
-
-The assistant integrates Large Language Models (LLMs) with voice interaction and desktop automation capabilities.
+A voice-enabled AI assistant inspired by JARVIS, integrating Large Language Models with desktop automation and conversational intelligence.
 
 ### Features
 
 ✅ Voice Commands
 
-✅ Natural Language Conversation
+✅ Natural Language Understanding
 
-✅ LLM Integration
+✅ LLM-Powered Conversations
 
 ✅ Desktop Automation
 
-✅ Application Control
-
-✅ Weather Information
+✅ Weather Updates
 
 ✅ Reminders & Task Management
 
-✅ Speech Recognition
-
-### Future Enhancements
-
-- Smart Home Integration
-- Personalized Memory
-- Multi-Agent Workflow Support
-- Advanced Automation Features
+✅ Smart Assistance
 
 ### Technologies Used
 
-```python
-Python
-Speech Recognition
-Text-to-Speech
-OpenAI / LLM APIs
-Desktop Automation
-Automation Libraries
-```
+<p align="left">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/LLM-POWERED-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SPEECH_RECOGNITION-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TEXT_TO_SPEECH-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DESKTOP_AUTOMATION-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PYTHON_APIS-yellow?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🎯 Interview Preparation Chatbot
+# 🎯 Interview Preparation Chatbot
 
-### Internship Group Project
+### Group Project | iGap Technologies Internship
 
-AI-powered interview coach with dynamic question generation, multi-modal input, and LLM-driven answer evaluation.
-Developed during the iGap Technologies Machine Learning Internship.
-
-Generates role-specific interview questions using Ollama LLMs (Gemma-3, LLaMA, Mistral)
-Accepts both typed and audio answers (speech-to-text via Google SpeechRecognition API)
-Scores each answer on a 1–10 scale with reasoning feedback
-Deployed as a full Streamlit web app
-Python Ollama Gemma-3 Streamlit SpeechRecognition NLP
+An AI-powered interview coach that generates role-specific questions, accepts voice/text responses, and evaluates answers using Large Language Models.
 
 ### Features
 
 ✅ AI-Generated Interview Questions
 
-✅ Audio & Text-Based Responses
+✅ Audio Responses
 
-✅ LLM-Based Answer Evaluation
+✅ Text Responses
 
-✅ Personalized Feedback
+✅ LLM-Based Evaluation
 
-✅ Streamlit Web Interface
+✅ Answer Scoring
 
-### Technologies
+✅ Streamlit Deployment
 
-```python
-Python
-Streamlit
-Ollama
-Gemma
-LLaMA
-SpeechRecognition
-NLP
-```
+### Technologies Used
 
----
+<p align="left">
 
-## 📊 ML Internship Portfolio – iGap Technologies
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python"/>
 
-Completed multiple end-to-end Machine Learning and Deep Learning projects during the internship.
+<img src="https://img.shields.io/badge/OLLAMA-black?style=for-the-badge"/>
 
-### Projects Included
+<img src="https://img.shields.io/badge/GEMMA_3-blue?style=for-the-badge"/>
 
-- Pneumonia Detection
-- Face Mask Detection
-- Handwritten Digit Recognition
-- Heart Disease Prediction
-- Diabetes Prediction
-- Movie Recommendation System
-- Image Classification Projects
-- Deep Learning Applications
+<img src="https://img.shields.io/badge/LLAMA-darkblue?style=for-the-badge"/>
 
-### Skills Gained
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
-- Data Preprocessing
-- Feature Engineering
-- Model Building
-- Deep Learning
-- Model Evaluation
-- Deployment
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SPEECH_RECOGNITION-orange?style=for-the-badge"/>
+
+</p>
 
 ---
 
-🛠 Tech Stack
+# 📈 GitHub Statistics
 
-Python | Machine Learning | AI | Git | GitHub
-TensorFlow | Scikit-Learn | Pandas | NumPy
+<div align="center">
 
-## Skills
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vyank0903&show_icons=true&theme=tokyonight"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vyank0903&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyank0903&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🎯 Current Learning Goals
 
-- Advanced Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models
-- AI Agent Systems
-- Healthcare AI Applications
+- 🧠 Advanced Machine Learning
+- 🤖 Deep Learning
+- 🚀 Generative AI
+- 📚 Large Language Models
+- 🕸️ AI Agents
+- 🏥 Healthcare AI Applications
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact
 
-📧 Email: vyankateshdounde7@gmail.com
+📧 **Email:** vyankateshdounde7@gmail.com
 
-💻 GitHub: https://github.com/Vyank0903
+💻 **GitHub:** https://github.com/vyankatesh-dounde
+
+📍 **Location:** Maharashtra, India
 
 ---
 
 <div align="center">
 
-### "Building Intelligent Solutions for Real-World Problems"
+### 💭 "Building Intelligent Solutions for Real-World Problems"
 
 ⭐ Thanks for visiting my profile!
 
 </div>
-⚡ Fun Fact:
-I love to understand how Game Mechanics work, interacts and act on action
