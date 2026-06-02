@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vyankatesh Dounde
+# Greetings👋, I'm Vyankatesh Dounde
 
 🎓 Diploma Graduate | Aspiring AI & Machine Learning Engineer
 
