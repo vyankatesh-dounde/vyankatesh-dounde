@@ -75,8 +75,6 @@ I enjoy understanding how game mechanics work and how systems interact to create
 
 # 🚀 Featured Projects
 
----
-
 # 🏥 AutiCare – AI-Powered Autism Screening Platform
 
 ### Overview
@@ -114,8 +112,6 @@ AutiCare is an AI-powered healthcare platform designed to support early Autism S
 <img src="https://img.shields.io/badge/HEALTHCARE_AI-blue?style=for-the-badge"/>
 
 </p>
-
----
 
 ---
 
@@ -245,20 +241,6 @@ An AI-powered interview coach that generates role-specific questions, accepts vo
 
 ---
 
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vyank0903&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vyank0903&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyank0903&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🎯 Current Learning Goals
 
 - 🧠 Advanced Machine Learning
@@ -269,14 +251,24 @@ An AI-powered interview coach that generates role-specific questions, accepts vo
 - 🏥 Healthcare AI Applications
 
 ---
+# 📫 Connect With Me
 
-# 📫 Contact
+<p align="left">
 
-📧 **Email:** vyankateshdounde7@gmail.com
+<a href="mailto:vyankateshdounde7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 **GitHub:** https://github.com/vyankatesh-dounde
+<a href="https://www.linkedin.com/in/vyankatesh-dounde-a497962a8">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📍 **Location:** Maharashtra, India
+<a href="https://github.com/vyankatesh-dounde">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+📍 **Location:** Ichalkaranji, Maharashtra, India
 
 ---
 
