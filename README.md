@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **Artificial Intelligence and Machine Learning developer** currently pursuing a **B.Tech in Data Science**. I build practical solutions that connect machine learning, data, and real-world needs across healthcare AI, generative AI, voice assistants, automation, and intelligent applications.
+I am an **Artificial Intelligence and Machine Learning developer** who has completed a **Diploma in Artificial Intelligence & Machine Learning** and is currently pursuing a **B.Tech in Data Science**. I build practical solutions that connect machine learning, data, and real-world needs across healthcare AI, generative AI, automation, and intelligent applications.
 
 Alongside my studies, I am developing portfolio projects, exploring modern AI systems, and strengthening my skills in data-driven problem solving and software development.
 
@@ -51,20 +51,18 @@ This foundation introduced me to artificial intelligence, machine learning, Pyth
 
 ## 🚀 Current Project
 
-### AutiCare: AI-Powered Autism Screening Platform
+### Shadow-AI: Intelligent AI Assistant
 
-AutiCare is a healthcare AI platform designed to support early Autism Spectrum Disorder (ASD) screening through machine learning-based risk assessment and caregiver support tools.
+Shadow-AI is an AI assistant project focused on conversational interaction, task support, and intelligent automation. It explores how AI can help users access information, complete everyday tasks, and interact with technology more naturally.
 
-**What it includes:**
+**Planned capabilities:**
 
-- Early autism risk screening
-- Machine learning-based assessment
-- Random Forest classifier integration
-- Caregiver support features
-- Streamlit web application
-- SQLite database integration
+- Natural-language conversations
+- AI-powered assistance and task support
+- Intelligent automation workflows
+- Extensible design for future AI features
 
-**Built with:** Python, scikit-learn, pandas, NumPy, Streamlit, Jupyter, and SQLite
+**Project focus:** Python development, AI assistants, large language models, automation, and user-focused software design
 
 ## 📚 Research Publication
 
@@ -81,13 +79,13 @@ Published in the **International Journal of Engineering Research & Technology (I
 
 ## 🧠 Other Projects
 
-### AI-LLM Assistant
+### AutiCare: AI-Powered Autism Screening Platform
 
-A voice-enabled AI assistant inspired by JARVIS, combining large language models with desktop automation and conversational intelligence.
+AutiCare is a completed diploma project and healthcare AI platform designed to support early Autism Spectrum Disorder (ASD) screening through machine learning-based risk assessment and caregiver support tools.
 
-**Features:** Voice commands, natural language conversations, weather updates, reminders, task management, and desktop automation.
+**Key features:** Early autism risk screening, machine learning-based assessment, caregiver support, a Streamlit web application, Random Forest classifier integration, and SQLite database integration.
 
-**Built with:** Python, LLM APIs, speech recognition, text-to-speech, and automation tools.
+**Built with:** Python, scikit-learn, pandas, NumPy, Streamlit, Jupyter, and SQLite.
 
 ### Interview Preparation Chatbot
 
